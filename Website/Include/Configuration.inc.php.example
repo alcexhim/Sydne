@@ -1,0 +1,6 @@
+<?php
+	use WebFX\System;
+	
+	System::$Configuration["Application.BasePath"] = "http://sydne.yourdomain.com";
+	System::$Configuration["WebFramework.StaticPath"] = "http://static.yourdomain.com";
+?>

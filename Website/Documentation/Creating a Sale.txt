@@ -1,0 +1,6 @@
+Creating a sale involves several processes:
+	Creating a new Sale
+	Associating the current User's ID to the new Sale
+	Associating the Customer's ID to the new Sale (if applicable)
+	Mapping all of the Products that Customer has selected to the Sale
+	Calculating the total cost of all the Products, along with any Discounts
