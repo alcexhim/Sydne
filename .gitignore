@@ -152,3 +152,4 @@ $RECYCLE.BIN/
 
 # Website configuration file which may contain sensitive data
 Website/Include/Configuration.inc.php
+PublicWebsite/Include/Configuration.inc.php
