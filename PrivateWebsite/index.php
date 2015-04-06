@@ -2,8 +2,8 @@
 	global $RootPath;
 	$RootPath = dirname(__FILE__);
 	
-	require_once("WebFX/WebFX.inc.php");
-	use WebFX\System;
+	require_once("Phast/System.inc.php");
+	use Phast\System;
 	
 	use Sydne\Objects\Employee;
 	
